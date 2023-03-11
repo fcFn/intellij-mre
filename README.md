@@ -1,4 +1,4 @@
-# MRE for incorrect type mistmatch error in JSX in IntelliJ IDEA
+# MRE for incorrect type mismatch error in JSX in IntelliJ IDEA
 
 If you open `index.jsx` in IntelliJ IDEA, you will see that it shows that there is a type mismatch error for the `prop` parameter. However, there's no type mismatch indicated for `index_t.tsx` which has identical contents.
 
